@@ -7,13 +7,10 @@ body{
 }
 
 #callout1, #callout2, #callout3 {
-    float: left;
-    width: 33%;
-    height: 120px;
-    background-color: ;
+    width: 320px;
+    background-color: #595959 ;
     border: 2px solid #1a75ff;
     text-align: center;
-    margin: auto;
     vertical-align: middle;
     }
     
