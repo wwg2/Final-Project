@@ -8,9 +8,9 @@ body{
 
 #callout1, #callout2, #callout3 {
     float: left;
-    width: 960;
+    width: 33%;
     height: 120px;
-    background-color: skyblue;
+    background-color: ;
     border: 2px solid #1a75ff;
     text-align: center;
     margin: auto;
