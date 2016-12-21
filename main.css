@@ -10,10 +10,9 @@ body{
     width: 320px;
     float: left;
     background-color: #595959 ;
-    border: 2px solid #1a75ff;
     text-align: center;
-    vertical-align: middle;
     }
+
     
 ul {
     list-style-type: none;
