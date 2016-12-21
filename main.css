@@ -64,3 +64,15 @@ color:red;
    margin-right: auto;
    border: 1px clear;
 	    }
+
+}
+#banner {
+  clear: both;
+  background-color: white;
+  height: 450px;
+  line-height: 366px;
+  padding-left: 31px;
+  padding-right: 31px;
+  background-image: url ('../Final_Project/backgroundhome.jpg;');
+  background-position-x: 115px;
+		}
