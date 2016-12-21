@@ -11,10 +11,10 @@ body{
     width: 315px;
     height: 85px;
     background-color: skyblue;
-    border: 3px solid #1a75ff;
+    border: 2px solid #1a75ff;
     text-align: center;
     background-position: center;
-    margin: 3px;
+    margin: auto;
     }
     
 ul {
