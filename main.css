@@ -8,12 +8,11 @@ body{
 
 #callout1, #callout2, #callout3 {
     float: left;
-    width: 315px;
+    width: 320px;
     height: 85px;
     background-color: skyblue;
     border: 2px solid #1a75ff;
     text-align: center;
-    background-position: center;
     margin: auto;
     }
     
@@ -54,10 +53,11 @@ color:red;
 }
 
 #wrapper {
-   width: 975px;
+   width: 960px;
    margin-left: auto;
    margin-right: auto;
    border: 1px clear;
+
 	    }
 
 #banner {
