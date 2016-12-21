@@ -24,6 +24,10 @@ ul {
 	width:100%;
 }
 
+#footer {
+    clear: both;
+    }
+
 li {
     float: right;
 	
