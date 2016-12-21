@@ -17,24 +17,15 @@
 			      <li><a href="about.html">About</a></li>
 			      <li><a href="#">Contact</a></li>
          </ul>
-   
-<div class="container">
-
-      <form class="form-signin">
-        <h2 class="form-signin-heading">Want to get in touch?</h2>
-        <label  class="sr-only">First Name</label>
-        <input type="email" id="input1" class="form-control" placeholder="First Name" required autofocus>
-		 <label  class="sr-only">Last Name</label>
-        <input type="email" id="input2" class="form-control" placeholder="Last Name" required autofocus>
-		 <label  class="sr-only">Email address</label>
-        <input type="email" id="input3" class="form-control" placeholder="Email address" required autofocus>
-		 <label  class="sr-only">Phone Number</label>
-        <input type="tel" id="input4" class="form-control" placeholder="Phone Number" required autofocus>
-		 <label  class="sr-only">Comments</label>
-        <textarea rows="5" id="input5" class="form-control" placeholder="Comments" required autofocus></textarea>
-        
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Send</button>
-      </form>
+	 
+   <form action="" method="POST" enctype="multipart/form-data">
+   <input name="action" value="submit" type="hidden"> Your name:<br>
+    <input name="name" size="30" type="text"><br> Your email:<br>
+    <input name="email" size="30" type="text"><br> Your message:<br>
+    <textarea name="message" rows="7" cols="30">
+    </textarea><br>
+    <input value="Send email" type="submit">
+    </form>
 
     </div>
 <div id="footer"> Copyright We Sell Your Stuff @2016
