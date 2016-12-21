@@ -8,6 +8,7 @@ body{
 
 #callout1, #callout2, #callout3 {
     width: 320px;
+    float: left;
     background-color: #595959 ;
     border: 2px solid #1a75ff;
     text-align: center;
