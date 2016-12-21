@@ -8,7 +8,7 @@ body{
 
 #callout1, #callout2, #callout3 {
     float: left;
-    width: 320px;  
+    width: 345px;  
     }
     
 ul {
@@ -38,10 +38,6 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 
-.active {
-    background-color: skyblue;
-}
-
 
 
 
@@ -63,7 +59,7 @@ color:red;
 }
 
 #wrapper {
-   width: 960px;
+   width: 675px;
    margin-left: auto;
    margin-right: auto;
    border: 1px clear;
