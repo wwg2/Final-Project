@@ -35,6 +35,18 @@ li {
 	
 }
 
+#realcontent {
+  width: 560px;
+  float: left;
+  line-height: 28px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 20px;
+
+}
+
+
+
 li a {
     display: block;
     color: white;
