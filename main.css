@@ -57,3 +57,10 @@ h1 a{
 text-decoration: none;
 color:red;
 }
+
+#wrapper {
+   width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 1px clear;
+	    }
